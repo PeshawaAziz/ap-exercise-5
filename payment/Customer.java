@@ -1,6 +1,6 @@
-import java.util.ArrayList;
-
 package payment;
+
+import java.util.ArrayList;
 
 public abstract class Customer {
     protected String name;
